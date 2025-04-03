@@ -1,3 +1,2 @@
-2025/04/01-16:29:24.644 1624 Reusing MANIFEST C:/Users/Davisão/Documents/Unreal Projects/Cenario/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2025/04/01-16:29:24.645 1624 Recovering log #3
-2025/04/01-16:29:24.646 1624 Reusing old log C:/Users/Davisão/Documents/Unreal Projects/Cenario/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2025/04/03-16:09:27.169 9b4 Creating DB C:/Users/davi.mundt/Documents/GitHub/Unreal2/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2025/04/03-16:09:27.184 9b4 Reusing MANIFEST C:/Users/davi.mundt/Documents/GitHub/Unreal2/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001

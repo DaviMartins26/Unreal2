@@ -1,71 +1,40 @@
-[0401/162942.379:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+[0403/160925.594:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Chave inválida para uso no estado especificado. (0x8009000B)
+[0403/160928.184:ERROR:backend_impl.cc(1041)] Critical error found -8
+[0403/160928.503:WARNING:storage_block-inl.h(146)] Failed data load.
+[0403/160929.159:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
+[0403/161005.805:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
 C:\fakepath(102,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
 
-[0401/162942.503:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+[0403/161005.883:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
 C:\fakepath(125,1): warning X4000: use of potentially uninitialized variable (f_mainImage)
 
-[0401/162942.594:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+[0403/161005.922:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
 C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
 C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
 C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
 
-[0401/162943.020:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+[0403/161007.216:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
 C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
 
-[0401/162943.027:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+[0403/161126.300:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0403/161202.531:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(102,1-6): warning X4000: use of potentially uninitialized variable (dyn_index_vec4_float4)
+
+[0403/161202.636:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(135,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(137,1): warning X4000: use of potentially uninitialized variable (f_i)
+C:\fakepath(173,1): warning X4000: use of potentially uninitialized variable (f_u)
+
+[0403/161203.618:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
 C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
 
-[0401/162943.030:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+[0403/161203.619:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
 C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
 
-[0401/162943.642:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+[0403/161203.624:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
+C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
+
+[0403/161203.890:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
 C:\fakepath(381,10-38): warning X4008: floating point division by zero
 C:\fakepath(381,10-38): warning X4008: floating point division by zero
 
-[0401/162944.301:ERROR:gl_utils.cc(314)] [.WebGL-0000045CAE378F00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[0401/162944.302:ERROR:gl_utils.cc(314)] [.WebGL-0000045CAE378F00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[0401/162944.302:ERROR:gl_utils.cc(314)] [.WebGL-0000045CAE378F00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[0401/162944.302:ERROR:gl_utils.cc(314)] [.WebGL-0000045CAE378F00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[0401/162944.302:ERROR:gl_utils.cc(314)] [.WebGL-0000045CAE378F00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[0401/162944.302:ERROR:gl_utils.cc(314)] [.WebGL-0000045CAE378F00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[0401/162944.302:ERROR:gl_utils.cc(314)] [.WebGL-0000045CAE378F00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[0401/162944.302:ERROR:gl_utils.cc(314)] [.WebGL-0000045CAE378F00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[0401/162944.302:ERROR:gl_utils.cc(314)] [.WebGL-0000045CAE378F00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[0401/162944.302:ERROR:gl_utils.cc(314)] [.WebGL-0000045CAE378F00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[0401/162944.302:ERROR:gl_utils.cc(314)] [.WebGL-0000045CAE378F00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[0401/162944.302:ERROR:gl_utils.cc(314)] [.WebGL-0000045CAE378F00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[0401/162944.302:ERROR:gl_utils.cc(314)] [.WebGL-0000045CAE378F00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[0401/162944.302:ERROR:gl_utils.cc(314)] [.WebGL-0000045CAE378F00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[0401/162944.302:ERROR:gl_utils.cc(314)] [.WebGL-0000045CAE378F00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[0401/162944.302:ERROR:gl_utils.cc(314)] [.WebGL-0000045CAE378F00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[0401/162944.302:ERROR:gl_utils.cc(314)] [.WebGL-0000045CAE378F00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[0401/162944.332:ERROR:gl_utils.cc(314)] [.WebGL-0000045CAE378F00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[0401/162944.332:ERROR:gl_utils.cc(314)] [.WebGL-0000045CAE378F00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[0401/162944.332:ERROR:gl_utils.cc(314)] [.WebGL-0000045CAE378F00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[0401/162944.332:ERROR:gl_utils.cc(314)] [.WebGL-0000045CAE378F00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[0401/162944.332:ERROR:gl_utils.cc(314)] [.WebGL-0000045CAE378F00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[0401/162944.332:ERROR:gl_utils.cc(314)] [.WebGL-0000045CAE378F00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[0401/162944.332:ERROR:gl_utils.cc(314)] [.WebGL-0000045CAE378F00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[0401/162944.332:ERROR:gl_utils.cc(314)] [.WebGL-0000045CAE378F00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[0401/162944.332:ERROR:gl_utils.cc(314)] [.WebGL-0000045CAE378F00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[0401/162944.332:ERROR:gl_utils.cc(314)] [.WebGL-0000045CAE378F00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[0401/162944.332:ERROR:gl_utils.cc(314)] [.WebGL-0000045CAE378F00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[0401/162944.332:ERROR:gl_utils.cc(314)] [.WebGL-0000045CAE378F00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[0401/162944.333:ERROR:gl_utils.cc(314)] [.WebGL-0000045CAE378F00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[0401/162944.333:ERROR:gl_utils.cc(314)] [.WebGL-0000045CAE378F00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[0401/162944.333:ERROR:gl_utils.cc(314)] [.WebGL-0000045CAE378F00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[0401/162944.333:ERROR:gl_utils.cc(314)] [.WebGL-0000045CAE378F00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[0401/162944.333:ERROR:gl_utils.cc(314)] [.WebGL-0000045CAE378F00] GL_INVALID_OPERATION: Two textures of different types use the same sampler location.
-[0401/162944.439:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
-C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
-
-[0401/162944.442:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
-C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
-
-[0401/162944.443:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
-C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
-
-[0401/162944.446:WARNING:angle_platform_impl.cc(48)] HLSLCompiler.cpp:257 (compileToBinary): 
-C:\fakepath(165,1): warning X4000: use of potentially uninitialized variable (f_renderMipMapLevel)
-
-[0401/163125.118:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
