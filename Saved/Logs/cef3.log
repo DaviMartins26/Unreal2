@@ -1,3 +1,2 @@
-[0409/215202.265:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Chave inválida para uso no estado especificado. (0x8009000B)
-[0409/215204.412:WARNING:spdy_session.cc(3431)] Received HEADERS for invalid stream 9
-[0409/215402.820:ERROR:gpu_init.cc(426)] Passthrough is not supported, GL is disabled
+[0410/145938.705:ERROR:os_crypt_win.cc(93)] Failed to decrypt: Chave inválida para uso no estado especificado. (0x8009000B)
+[0410/145940.939:WARNING:value_store_frontend.cc(45)] Reading mhjfbmdgcfjbbpaeojofohoefgiehjai.alarms from  failed: IO error: .../MANIFEST-000001: Unable to create sequential file (ChromeMethodBFE: 7::NewSequentialFile::1)
